@@ -8,5 +8,8 @@
             "name": "wvanbreukelen",
             "email": "alopski@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "classmap": ["wvanbreukelen/Notify"]
+    }
 }
