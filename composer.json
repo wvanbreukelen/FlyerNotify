@@ -1,0 +1,12 @@
+{
+    "name": "flyer/notify",
+    "description": "The Flyer Notify package",
+    "keywords": ["framework", "flyer", "notify"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wvanbreukelen",
+            "email": "alopski@gmail.com"
+        }
+    ]
+}
