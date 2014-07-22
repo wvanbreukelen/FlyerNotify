@@ -1,6 +1,6 @@
 <?php
 
-namespace wvanbreukelen\FlyerNotify;
+namespace wvanbreukelen\Notify;
 
 use Flyer\Foundation\ServiceProvider;
 

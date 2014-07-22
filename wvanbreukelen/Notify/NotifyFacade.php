@@ -1,6 +1,6 @@
 <?php
 
-namespace wvanbreukelen\FlyerNotify;
+namespace wvanbreukelen\Notify\Facades;
 
 use Flyer\Foundation\Facades\Facade;
 

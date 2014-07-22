@@ -1,5 +1,7 @@
 <?php
 
+namespace wvanbreukelen\Notify;
+
 class Notify
 {
 	public function error($message)
